@@ -498,7 +498,7 @@ footer {
     min-height: 100px;
     flex-shrink: 0;
     background-color: var(--light-background-color);
-    width: 100vw;
+    width: 100%;
     position: relative;
     left: 0;
     transform: none;

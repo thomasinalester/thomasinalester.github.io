@@ -40,10 +40,10 @@ skills:
 colors:
   text: "#1a1c20"
   border: "#ddd"
-  link: "#a6b7c8"
-  highlight: "#a6b7c8"
+  link: "#f3f5fb"
+  highlight: "#f3f5fb"
   background: "#ffffff"
-  light_background: "#f3f5fb"
+  light_background: "#a6b7c8"
 
 basic theme:
   text: "#1a1c20"

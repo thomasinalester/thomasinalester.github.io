@@ -495,16 +495,16 @@ footer {
     padding: 0;
     font-size: 12px;
     text-align: center;
-    min-height: 150px; 
+    min-height: 150px;
     flex-shrink: 0;
     background-color: var(--light-background-color);
-    width: 100vw;
+    width: 100%;
     position: relative;
-    left: 50%;
-    transform: translateX(-50%);
+    left: 0;
+    transform: none;
     display: flex;
     flex-direction: column;
-    justify-content: space-between; 
+    justify-content: center;
     align-items: center;
 }
 

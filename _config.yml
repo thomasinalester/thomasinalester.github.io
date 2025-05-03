@@ -20,22 +20,6 @@ external-links:
   youtube:
   discord:
   bluesky:
-  
-skills:
-  - category: Programming Languages
-    tools:
-    - Python (scikit-learn, gurobipy, pandas, NumPy)
-    - SQL (PostgreSQL, Oracle)
-    - Java
-  - category: Engineering Tools
-    tools:
-    - AutoCAD
-    - IBM Maximo
-    - Microsoft Visio
-    - Timer Pro Professional
-  - category: Certifications
-    tools:
-    - OSHA 10-Hour General Industry (Manufacturing)
 
 colors:
   text: "#1a1c20"

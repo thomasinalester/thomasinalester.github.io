@@ -43,7 +43,7 @@ colors:
   link: "#a6b7c8"
   highlight: "#a6b7c8"
   background: "#ffffff"
-  light_background: "#f3f5fb"
+  light_background: "#c4d8e2"
 
 basic theme:
   text: "#1a1c20"

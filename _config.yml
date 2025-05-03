@@ -1,42 +1,28 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
+title: Thomasina Lester
 
-# Main Page Setup
-title: Thomasina Lester # This is what shows up in the tab of the browser
-
-# Hero Section
 name: Thomasina Lester
 headline: Incoming Manufacturing Engineer at Procter & Gamble | Industrial Engineering Student at Columbia University
-description: >- # dont remove this line. this will ignore all new lines until the next section
+description: >-
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 
-# Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
-# Link your resume
-# You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
 resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
 
-# Set up external links - this will show up as small icons next to your name.
-external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: thomasina-lester    # https://www.linkedin.com/in/{your url slug} 
-  github:          # https://github.com/{your url slug} 
-  stackoverflow:   # https://stackoverflow.com/users/{your url slug}
-  medium:          # https://medium.com/@{your url slug} 
-  x-twitter:       # https://x.com/{your url slug} 
-  threads:         # https://threads.net/@{your url slug} 
-  instragram:      # https://instagram.com/{your url slug} 
-  youtube:         # https://youtube.com/@{your url slug} 
-  discord:         # https://discord.com/users/{your url slug} 
-  bluesky:         # https://bsky.app/profile/{your url slug} 
+external-links:
+  linkedin: thomasina-lester
+  github:
+  stackoverflow:
+  medium:
+  x-twitter:
+  threads:
+  instragram:
+  youtube:
+  discord:
+  bluesky:
   
-# Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
   - category: 3D Modeling
     tools:
@@ -79,20 +65,15 @@ skills:
     - Six Sigma methodologies
     - Shain Red-X
 
-# Contact Form Setup. Setup an account and copy over the key. When someone fills out the form, it will be received in your email.
-formspree-key:
+colors:
+  text: "#1a1c20"
+  border: "#ddd"
+  link: "#4a76ee"
+  highlight: "#0c0cf2"
+  background: "#ffffff"
+  light_background: "#f3f5fb"
 
-# Active theme (Updatethis to switch themes). Make sure to keep the indentation the samne.
-colors: # this is the basic theme
-  text: "#2c3333"
-  border: "#e0f2ef"
-  link: "#40b3a2"
-  highlight: "#2a9d8f"
-  background: "#f7fbfa"
-  light_background: "#f0f9f7"
-
-# A few examples. 
-basic theme:
+  basic theme:
   text: "#1a1c20"
   border: "#ddd"
   link: "#4a76ee"
@@ -108,7 +89,7 @@ basic theme:
   background: "#f7fbfa"
   light_background: "#f0f9f7"
   
-lemon theme:
+  lemon theme:
   text: "#2d2926"
   border: "#f7f3e3"
   link: "#ffc94d"
@@ -125,7 +106,6 @@ lemon theme:
   light_background: "#fff5f6"
 
 #########################################################################################################
-# Build settings for the site. Editing the below may cause the site to malfunction.
 
 collections:
   projects:

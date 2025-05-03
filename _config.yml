@@ -27,13 +27,13 @@ skills:
     - Python (scikit-learn, gurobipy, pandas, NumPy)
     - SQL (PostgreSQL, Oracle)
     - Java
-   - category: Engineering Tools
+  - category: Engineering Tools
     tools:
     - AutoCAD
     - IBM Maximo
     - Microsoft Visio
     - Timer Pro Professional
-   - category: Certifications
+  - category: Certifications
     tools:
     - OSHA 10-Hour General Industry (Manufacturing)
 

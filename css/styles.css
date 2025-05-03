@@ -492,7 +492,7 @@ nav .mobile-nav {
 /* FOOTER */
 
 footer {
-    padding: 0;
+    padding: 0 0 20px;
     font-size: 12px;
     text-align: center;
     min-height: 75px;
@@ -500,12 +500,13 @@ footer {
     background-color: var(--light-background-color);
     width: 100vw;
     position: relative;
-    left: 0;
-    transform: none;
+    left: 50%;
+    transform: translateX(-50%);
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
+    box-sizing: border-box;
 }
 
 footer::before {

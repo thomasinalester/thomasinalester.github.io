@@ -244,7 +244,7 @@ nav .mobile-nav {
 
 .arrow a   {
     font-size: 20px;
-    color: var(--link-color);
+    color: var(--border-color);
     display: inline-block;  /* This makes .hero-section a flex container */
     align-items: center;
     border: 2px solid var(--link-color);

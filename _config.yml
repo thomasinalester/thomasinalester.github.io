@@ -40,8 +40,8 @@ skills:
 colors:
   text: "#1a1c20"
   border: "#ddd"
-  link: "#f3f5fb"
-  highlight: "#f3f5fb"
+  link: "#ffffff"
+  highlight: "#a6b7c8"
   background: "#ffffff"
   light_background: "#a6b7c8"
 

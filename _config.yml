@@ -1,11 +1,11 @@
 title: Thomasina Lester
 
 name: Thomasina Lester
-headline: Incoming Manufacturing Engineer at Procter & Gamble | Industrial Engineering Student at Columbia University
+headline: Incoming Manufacturing Engineer at Procter & Gamble
 description: >-
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I'm currently a fourth-year undergraduate student studying industrial engineering and computer science
+  in the Fu Foundation School of Engineering and Applied Science at Columbia University.
+  I'm interested in process improvement, human factors engineering, and operations management within the manufacturing sector.
 
 profile_image: ./assets/images/profile-image/avatar.jpeg
 
@@ -68,8 +68,8 @@ skills:
 colors:
   text: "#1a1c20"
   border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
+  link: "#C4D8E2"
+  highlight: "#C4D8E2"
   background: "#ffffff"
   light_background: "#f3f5fb"
 

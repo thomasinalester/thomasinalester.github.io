@@ -15,7 +15,7 @@ skills:
 main-image: /IEME E4200 - Icon.png
 ---
 
-## Slide Deck
+## Presentation
 <div style="text-align: center;">
   <video width="50%" height="auto" controls>
     <source src="/_projects/IEME E4200 - Presentation.mp4" type="video/mp4">

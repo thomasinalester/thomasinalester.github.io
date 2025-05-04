@@ -12,12 +12,12 @@ skills:
   - Storytelling
   - Teamwork
 
-main-image: /IEME E4200.png
+main-image: /IEME E4200 - Icon.png
 ---
 
 ## Slide Deck
 <div style="text-align: center;">
   <video width="50%" height="auto" controls>
-    <source src="/_projects/IEME E4200.mp4" type="video/mp4">
+    <source src="/_projects/IEME E4200 - Presentation.mp4" type="video/mp4">
   </video>
 </div>

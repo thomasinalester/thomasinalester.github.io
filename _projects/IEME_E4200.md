@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Lion's Den
-description: A semester-long project for Human-Centered Design and Innovation with Professor Harry West. As a class, we were tasked with designing the experience of a new engineering building at Columbia University.
+description: A semester-long project for Human-Centered Design and Innovation with Professor Harry West in Spring 2025. As a class, we were tasked with designing the experience of a new engineering building at Columbia University. My team and I created The Lion's Den: a themed, technology-driven lounge on every floor of the building, inviting students to find belonging in the engineering community.
 
 skills:
   - Human-Centered Design

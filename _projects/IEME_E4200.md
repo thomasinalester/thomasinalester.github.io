@@ -16,6 +16,8 @@ main-image: /IEME E4200.png
 ---
 
 ## Slide Deck
-<video width="50%" height="auto" controls>
-  <source src="/_projects/IEME E4200.mp4" type="video/mp4">
-</video>
+<div style="text-align: center;">
+  <video width="50%" height="auto" controls>
+    <source src="/_projects/IEME E4200.mp4" type="video/mp4">
+  </video>
+</div>

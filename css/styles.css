@@ -265,16 +265,16 @@ nav .mobile-nav {
 }
 
 
-/*SECTION 2: PROJECT GRID */
+/* SECTION 2: PROJECT GRID */
 .project-grid-section {
     margin-bottom: 100px;
     margin-top: 50px;
-    display:flex;
+    display: flex;
     flex-direction: column;
-    justify-content: center; 
-   }
+    justify-content: center;
+}
 
-.project-grid-section h2{
+.project-grid-section h2 {
     font-size: 34px;
     margin-bottom: 10px;
     padding: 0 10px;
@@ -285,15 +285,18 @@ nav .mobile-nav {
     grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
     gap: 25px;
     width: 100%;
+    max-width: 1000px;
     margin: 0 auto;
     align-items: stretch;
-  
 }
 
 .project-grid-section .project-link {
     text-decoration: none;
     color: inherit;
     display: inline-block;
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
 }
 
 .project-grid-section .grid-container .project-link .project-card {
@@ -304,7 +307,7 @@ nav .mobile-nav {
     box-sizing: border-box;
     padding: 15px;
     background: var(--background-color);
-    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
                 0 2px 4px -1px rgba(0, 0, 0, 0.06);
     border-radius: 8px;
     border: 1px solid rgba(0, 0, 0, 0.05);
@@ -313,27 +316,25 @@ nav .mobile-nav {
 }
 
 .project-card img {
-    width: 100%; 
-    max-width: 100%; 
-    aspect-ratio: 3/1;
+    width: 100%;
+    max-width: 100%;
+    aspect-ratio: 3 / 1;
     object-fit: cover;
     display: block;
     border-radius: 6px;
-    margin-bottom: 10px; 
+    margin-bottom: 10px;
 }
-
 
 .project-card .project-title {
     font-size: 1.4em;
     text-decoration: none;
-    transition: color 0.3s ease; 
-    margin-bottom: 10px
+    transition: color 0.3s ease;
+    margin-bottom: 10px;
 }
 
 .project-card .project-title:hover {
     text-decoration: underline;
 }
-
 
 .project-card .project-skills {
     display: flex;
@@ -348,19 +349,19 @@ nav .mobile-nav {
     font-size: 0.9em;
     background-color: var(--light-background-color);
     color: var(--link-color);
-    white-space: nowrap; 
+    white-space: nowrap;
 }
 
 .project-card .project-description {
     display: -webkit-box;
-    -webkit-line-clamp: 4; 
+    -webkit-line-clamp: 4;
     line-clamp: 4px;
     -webkit-box-orient: vertical;
     overflow: hidden;
     text-overflow: ellipsis;
     word-break: break-word;
-    line-height: 1.5; 
-    max-height: calc(1.5em * 4); 
+    line-height: 1.5;
+    max-height: calc(1.5em * 4);
 }
 
 .project-card .read-more {

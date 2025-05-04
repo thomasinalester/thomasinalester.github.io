@@ -370,8 +370,9 @@ nav .mobile-nav {
     border: none;
     color: var(--border-color);
     cursor: pointer;
-    font-size: 0.9em;
-    font-weight: bold;
+    font-size: 1em;
+    font-family: inherit;
+    font-weight: normal;
     margin-top: 5px;
     text-align: start;
 }

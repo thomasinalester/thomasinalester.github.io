@@ -327,6 +327,7 @@ nav .mobile-nav {
 
 .project-card .project-title {
     font-size: 1.4em;
+    font-weight: bold;
     text-decoration: none;
     transition: color 0.3s ease;
     margin-bottom: 10px;
@@ -340,7 +341,7 @@ nav .mobile-nav {
     display: flex;
     flex-wrap: wrap;
     gap: 4px;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
 }
 
 .project-card .project-skills .skill {
@@ -370,6 +371,7 @@ nav .mobile-nav {
     color: var(--border-color);
     cursor: pointer;
     font-size: 0.9em;
+    font-weight: bold;
     margin-top: 5px;
     text-align: start;
 }

@@ -11,5 +11,5 @@ skills:
   - Storytelling
   - Teamwork
 
-main-image: IEME E4200.png
+main-image: ./_projects/IEME E4200.png
 ---
